@@ -1,11 +1,11 @@
 Scripts cobbled up using AI sources (chat gpt, claude) to help everyday task. <br>
 "A Second Saved is a Minute Had" (Aldus Freehand) <br>
 
-<b> AB_CreateRect </b> <br>
+ <i> <b> AB_ArtboardRenamer </b> </i> <br>
+Lets the user rename the artboards based on the file name or any prefered name, than captioning the boards sequentilly <br> (NewName A, NewName B, NewName C) <br>
+
+<i> <b> AB_CreateRect </b> <br> </i>
 Creates a rectatnge on the artboard. Always on the top layer.
 
-<b> AB_ArtboardRenamer </b> <br>
-Lets the user rename the artboards based on the file name or any prefered name, than captioning the boards sequentilly (NewName A, NewName B, NewNameC) <br>
-
-<b> AB_DeleteEmptyLayers </b> <br>
+<i><b> AB_DeleteEmptyLayers </b> <br> </i>
 It does what it says on the tin! Deletes the empty layers
