@@ -7,5 +7,5 @@ Lets the user rename the artboards based on the file name or any prefered name, 
 <i> <b> AB_CreateRect </b> <br> </i>
 Creates a rectatnge on the artboard. Always on the top layer.
 
-<i><b> AB_DeleteEmptyLayers </b> <br> </i>
-It does what it says on the tin! Deletes the empty layers
+<i><b> AB_Scripts </b> <br> </i>
+It does what it says on the tin!
