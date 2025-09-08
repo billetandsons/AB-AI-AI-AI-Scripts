@@ -1,6 +1,6 @@
 
 ![CarRGB](https://github.com/user-attachments/assets/f1202b53-1ddf-4ee7-b61b-c46a58a3c96a)
-Scripts cobbled up using AI sources (chat gpt, claude) to help everyday task. <br>
+Scripts cobbled up using AI sources (chat gpt, claude) to help everyday menial tasks. <br>
 "A Second Saved is a Minute Had" (Aldus Freehand) <br>
 
  <i> <b> AB_ArtboardRenamer </b> </i> <br>
