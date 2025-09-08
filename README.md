@@ -13,7 +13,7 @@ Creates a rectatnge on the artboard. Always on the top layer.
 <i> <b> AB_LinkName </b> <br> </i>
 Select a linked file, run the script, the filename will be added next to the image.
 
-<i> <b>_AB_SpaceEvader</b> <br> </i>
+<i> <b>AB_SpaceEvader</b> <br> </i>
 Removes double lines from a block of text, great for those pesy ChatGPT copy-pasts!
 
 
