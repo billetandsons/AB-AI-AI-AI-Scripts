@@ -5,6 +5,21 @@ Scripts cobbled up using AI sources (chat gpt, claude) to help with everyday men
  <br>
 "A Second Saved is a Minute Had" (Aldus Freehand) <br>
 
+<u>Installation</u><br>
+To make this script available directly from the File → Scripts menu in Adobe Illustrator:<br>
+1. Copy the .jsx file (e.g., AB_TodaysDate.jsx) into:<br>
+<b>macOS</b><br>
+      /Applications/Adobe Illustrator <version>/Presets/en_US/Scripts/<br>
+<b>Windows</b><br>
+     C:\Program Files\Adobe\Adobe Illustrator <version>\Presets\en_US\Scripts\
+* Replace <version> with your installed Illustrator version (e.g., 2025, 2024).<br>
+* Replace en_US with your language folder if different.<br>
+2. Restart Illustrator.<br>
+3. You’ll find the script under File → Scripts.<br>
+
+<b> JSX Launcher </b> is a great addition to Illustrator for quick access to scripts. <br>
+https://exchange.adobe.com/apps/cc/12096/jsx-launcher
+
  <i> <b> AB_ArtboardRenamer </b> </i> <br>
 Lets the user rename the artboards based on the file name or any prefered name, than captioning the boards sequentilly <br> (NewName A, NewName B, NewName C) <br>
 
