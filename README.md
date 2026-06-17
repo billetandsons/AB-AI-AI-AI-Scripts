@@ -30,7 +30,7 @@ Creates a rectatnge on the artboard. Always on the top layer.
 Select a linked file, run the script, the filename will be added next to the image.
 
 <i> <b>AB_SpaceEvader</b> <br> </i>
-Removes double lines from a block of text, great for those pesy ChatGPT copy-pasts!
+Removes double lines from a block of text, great for those pesky ChatGPT copy-pasts!
 
 <i> <b>AB_Today's Date</b> <br> </i>
 Dont you hate typing today's date on every document?
